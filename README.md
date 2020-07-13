@@ -1,2 +1,2 @@
 # DNAGCL
-Classification of Gene Family of DNA using NLP and BoVW
+Classification of Gene Family of DNA sequence using NLP and BoVW
