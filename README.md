@@ -1,5 +1,5 @@
 # DNAGC
 Classification of Gene Family of DNA sequence using NLP and BoVW
 
-![alt text]("test1/Screen Recording 2021-11-30 at 19.45.47.gif")
+![alt text]("https://github.com/pratyakshgit/DNAGC/blob/master/test1/Screen%20Recording%202021-11-30%20at%2019.45.47.gif")
 
