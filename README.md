@@ -1,4 +1,4 @@
 # DNAGC
 Classification of Gene Family of DNA sequence using NLP and BoVW
 
-![Farmers Market Finder Demo](demo/demo.gif)
+![Farmers Market Finder Demo](test1/Screen Recording 2021-11-30 at 19.45.47.gif)
